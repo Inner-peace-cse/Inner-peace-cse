@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I_Love_Sabnaj</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate on Competitive Programmer From Bangladesh.</h3>
 
 - 🔭 I’m currently working on [Developing my competitive skill on](https://codeforces.com/, https://usaco.guide/)
